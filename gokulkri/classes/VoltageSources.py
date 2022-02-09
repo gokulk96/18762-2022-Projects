@@ -11,6 +11,8 @@ class VoltageSources:
         self.amp_ph_ph_rms = amp_ph_ph_rms
         self.phase_deg = phase_deg
         self.frequency_hz = frequency_hz
+        self.vp_node_index
+        self.vp_node_index
         # You are welcome to / may be required to add additional class variables   
 
     # Some suggested functions to implement, 

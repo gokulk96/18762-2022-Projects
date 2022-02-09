@@ -39,6 +39,8 @@ def solve(TESTCASE, SETTINGS):
     # In addition to voltages, nodes track currents of voltage sources and
     # other state variablesneeded for companion models or the model of the 
     # induction motor.
+    
+    
     # You can determine the size of the Y matrix by looking at the total
     # number of nodes in the system.
     size_Y = assign_node_indexes(devices)
